@@ -1,0 +1,14 @@
+{
+  "name": "ISOLED",
+  "symbol": "ISO",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/isoled-io/isoled-token/refs/heads/main/iso-logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/isoled-io/isoled-token/refs/heads/main/iso-logo.png",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}
