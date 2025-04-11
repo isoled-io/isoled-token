@@ -3,12 +3,5 @@
   "symbol": "ISO",
   "description": "",
   "image": "https://raw.githubusercontent.com/isoled-io/isoled-token/refs/heads/main/iso-icon.png",
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/isoled-io/isoled-token/refs/heads/main/iso-icon.png",
-        "type": "image/jpeg"
-      }
-    ]
-  }
+  "sellerFeeBasisPoints": 0
 }
